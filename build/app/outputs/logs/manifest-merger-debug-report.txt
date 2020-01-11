@@ -1,0 +1,169 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/kunalraut/Downloads/tres_comas/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/kunalraut/Downloads/tres_comas/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/kunalraut/Downloads/tres_comas/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/kunalraut/Downloads/tres_comas/android/app/src/main/AndroidManifest.xml:1:1-34:12
+MERGED from /Users/kunalraut/Downloads/tres_comas/android/app/src/main/AndroidManifest.xml:1:1-34:12
+MERGED from [:flutter_webview_plugin] /Users/kunalraut/Downloads/tres_comas/build/flutter_webview_plugin/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/kunalraut/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/53bc150dd5def6a88f4a2eaba46ffecf/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/kunalraut/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/8a8f93c9e81a7327a616d920173c040f/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/kunalraut/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.1.0.aar/63f8a9f265350816d817f2a3df33b03f/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/kunalraut/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/846d50224405739cbd7d0b53e3d9312f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kunalraut/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/ce5d34732cbf13106f06ea7d2981d338/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/kunalraut/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/f974dd7dc7aa8026dd7fb9561db23769/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/kunalraut/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/c4dffaabae7f8334edaa93bbc281cfcd/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/kunalraut/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.1.0.aar/f89e1233e360fa21e84cc06778f6ab20/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/kunalraut/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0.aar/10a6bf7b6d617befc04b4d40ba9813f4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/kunalraut/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/277f05e50e123bc5c080acb331b71612/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/kunalraut/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/7e88416308153cfb2bb08f834d6f0e87/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kunalraut/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/1e30605cd884739b9f3298a87c4379a3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/kunalraut/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/9d71d2522458e7ffa2207139503b311a/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/kunalraut/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.1.0.aar/fef7b3f28e92a876b45ff19d726e3fb0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/kunalraut/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/b7102f215919fe4fe9c3cc5b47b5c6b1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/kunalraut/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/3c97cfddd71855473287709350e5a7b6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kunalraut/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/6b38a9ea254267a830e0ea1311fc8c74/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/kunalraut/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/b5622194a80927138476f4df568c131d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/kunalraut/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/b446abf23c96bbd94ad150985d4cdb4d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/kunalraut/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/f1a8a80a65827c1fac4b084ad3279c87/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/kunalraut/Downloads/tres_comas/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/kunalraut/Downloads/tres_comas/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/kunalraut/Downloads/tres_comas/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from /Users/kunalraut/Downloads/tres_comas/android/app/src/main/AndroidManifest.xml:2:5-43
+		INJECTED from /Users/kunalraut/Downloads/tres_comas/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kunalraut/Downloads/tres_comas/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/kunalraut/Downloads/tres_comas/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kunalraut/Downloads/tres_comas/android/app/src/main/AndroidManifest.xml:1:1-34:12
+		INJECTED from /Users/kunalraut/Downloads/tres_comas/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/kunalraut/Downloads/tres_comas/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kunalraut/Downloads/tres_comas/android/app/src/main/AndroidManifest.xml:1:1-34:12
+		INJECTED from /Users/kunalraut/Downloads/tres_comas/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/kunalraut/Downloads/tres_comas/android/app/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /Users/kunalraut/Downloads/tres_comas/android/app/src/main/AndroidManifest.xml:9:5-33:19
+MERGED from [:flutter_webview_plugin] /Users/kunalraut/Downloads/tres_comas/build/flutter_webview_plugin/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:8:5-19:19
+MERGED from [:flutter_webview_plugin] /Users/kunalraut/Downloads/tres_comas/build/flutter_webview_plugin/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:8:5-19:19
+MERGED from [androidx.core:core:1.1.0] /Users/kunalraut/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/7e88416308153cfb2bb08f834d6f0e87/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/kunalraut/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/7e88416308153cfb2bb08f834d6f0e87/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/kunalraut/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/9d71d2522458e7ffa2207139503b311a/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/kunalraut/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/9d71d2522458e7ffa2207139503b311a/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/kunalraut/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/7e88416308153cfb2bb08f834d6f0e87/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/kunalraut/Downloads/tres_comas/android/app/src/main/AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from /Users/kunalraut/Downloads/tres_comas/android/app/src/main/AndroidManifest.xml:12:9-43
+	android:usesCleartextTraffic
+		ADDED from /Users/kunalraut/Downloads/tres_comas/android/app/src/main/AndroidManifest.xml:13:9-44
+	android:name
+		ADDED from /Users/kunalraut/Downloads/tres_comas/android/app/src/main/AndroidManifest.xml:10:9-57
+activity#com.kunalrautapps.tres_comas.MainActivity
+ADDED from /Users/kunalraut/Downloads/tres_comas/android/app/src/main/AndroidManifest.xml:14:9-32:20
+	android:launchMode
+		ADDED from /Users/kunalraut/Downloads/tres_comas/android/app/src/main/AndroidManifest.xml:16:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/kunalraut/Downloads/tres_comas/android/app/src/main/AndroidManifest.xml:19:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/kunalraut/Downloads/tres_comas/android/app/src/main/AndroidManifest.xml:20:13-55
+	android:configChanges
+		ADDED from /Users/kunalraut/Downloads/tres_comas/android/app/src/main/AndroidManifest.xml:18:13-144
+	android:theme
+		ADDED from /Users/kunalraut/Downloads/tres_comas/android/app/src/main/AndroidManifest.xml:17:13-47
+	android:name
+		ADDED from /Users/kunalraut/Downloads/tres_comas/android/app/src/main/AndroidManifest.xml:15:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from /Users/kunalraut/Downloads/tres_comas/android/app/src/main/AndroidManifest.xml:25:13-27:40
+	android:value
+		ADDED from /Users/kunalraut/Downloads/tres_comas/android/app/src/main/AndroidManifest.xml:27:17-37
+	android:name
+		ADDED from /Users/kunalraut/Downloads/tres_comas/android/app/src/main/AndroidManifest.xml:26:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/kunalraut/Downloads/tres_comas/android/app/src/main/AndroidManifest.xml:28:13-31:29
+action#android.intent.action.MAIN
+ADDED from /Users/kunalraut/Downloads/tres_comas/android/app/src/main/AndroidManifest.xml:29:17-68
+	android:name
+		ADDED from /Users/kunalraut/Downloads/tres_comas/android/app/src/main/AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/kunalraut/Downloads/tres_comas/android/app/src/main/AndroidManifest.xml:30:17-76
+	android:name
+		ADDED from /Users/kunalraut/Downloads/tres_comas/android/app/src/main/AndroidManifest.xml:30:27-74
+uses-sdk
+INJECTED from /Users/kunalraut/Downloads/tres_comas/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/kunalraut/Downloads/tres_comas/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kunalraut/Downloads/tres_comas/android/app/src/main/AndroidManifest.xml
+MERGED from [:flutter_webview_plugin] /Users/kunalraut/Downloads/tres_comas/build/flutter_webview_plugin/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:6:5-44
+MERGED from [:flutter_webview_plugin] /Users/kunalraut/Downloads/tres_comas/build/flutter_webview_plugin/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:6:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/kunalraut/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/53bc150dd5def6a88f4a2eaba46ffecf/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/kunalraut/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/53bc150dd5def6a88f4a2eaba46ffecf/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/kunalraut/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/8a8f93c9e81a7327a616d920173c040f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/kunalraut/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/8a8f93c9e81a7327a616d920173c040f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/kunalraut/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.1.0.aar/63f8a9f265350816d817f2a3df33b03f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/kunalraut/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.1.0.aar/63f8a9f265350816d817f2a3df33b03f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/kunalraut/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/846d50224405739cbd7d0b53e3d9312f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/kunalraut/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/846d50224405739cbd7d0b53e3d9312f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kunalraut/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/ce5d34732cbf13106f06ea7d2981d338/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kunalraut/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/ce5d34732cbf13106f06ea7d2981d338/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/kunalraut/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/f974dd7dc7aa8026dd7fb9561db23769/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/kunalraut/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/f974dd7dc7aa8026dd7fb9561db23769/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/kunalraut/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/c4dffaabae7f8334edaa93bbc281cfcd/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/kunalraut/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/c4dffaabae7f8334edaa93bbc281cfcd/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/kunalraut/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.1.0.aar/f89e1233e360fa21e84cc06778f6ab20/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/kunalraut/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.1.0.aar/f89e1233e360fa21e84cc06778f6ab20/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/kunalraut/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0.aar/10a6bf7b6d617befc04b4d40ba9813f4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/kunalraut/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0.aar/10a6bf7b6d617befc04b4d40ba9813f4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/kunalraut/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/277f05e50e123bc5c080acb331b71612/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/kunalraut/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/277f05e50e123bc5c080acb331b71612/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/kunalraut/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/7e88416308153cfb2bb08f834d6f0e87/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/kunalraut/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/7e88416308153cfb2bb08f834d6f0e87/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kunalraut/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/1e30605cd884739b9f3298a87c4379a3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kunalraut/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/1e30605cd884739b9f3298a87c4379a3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/kunalraut/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/9d71d2522458e7ffa2207139503b311a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/kunalraut/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/9d71d2522458e7ffa2207139503b311a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/kunalraut/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.1.0.aar/fef7b3f28e92a876b45ff19d726e3fb0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/kunalraut/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.1.0.aar/fef7b3f28e92a876b45ff19d726e3fb0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/kunalraut/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/b7102f215919fe4fe9c3cc5b47b5c6b1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/kunalraut/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/b7102f215919fe4fe9c3cc5b47b5c6b1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/kunalraut/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/3c97cfddd71855473287709350e5a7b6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/kunalraut/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/3c97cfddd71855473287709350e5a7b6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kunalraut/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/6b38a9ea254267a830e0ea1311fc8c74/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kunalraut/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/6b38a9ea254267a830e0ea1311fc8c74/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/kunalraut/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/b5622194a80927138476f4df568c131d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/kunalraut/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/b5622194a80927138476f4df568c131d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/kunalraut/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/b446abf23c96bbd94ad150985d4cdb4d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/kunalraut/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/b446abf23c96bbd94ad150985d4cdb4d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/kunalraut/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/f1a8a80a65827c1fac4b084ad3279c87/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/kunalraut/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/f1a8a80a65827c1fac4b084ad3279c87/AndroidManifest.xml:20:5-44
+INJECTED from /Users/kunalraut/Downloads/tres_comas/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/kunalraut/Downloads/tres_comas/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/kunalraut/Downloads/tres_comas/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kunalraut/Downloads/tres_comas/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/kunalraut/Downloads/tres_comas/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kunalraut/Downloads/tres_comas/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/kunalraut/Downloads/tres_comas/android/app/src/debug/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /Users/kunalraut/Downloads/tres_comas/android/app/src/debug/AndroidManifest.xml:6:22-64
+provider#androidx.core.content.FileProvider
+ADDED from [:flutter_webview_plugin] /Users/kunalraut/Downloads/tres_comas/build/flutter_webview_plugin/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:9:9-18:20
+	android:grantUriPermissions
+		ADDED from [:flutter_webview_plugin] /Users/kunalraut/Downloads/tres_comas/build/flutter_webview_plugin/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:13:13-47
+	android:authorities
+		ADDED from [:flutter_webview_plugin] /Users/kunalraut/Downloads/tres_comas/build/flutter_webview_plugin/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:13-64
+	android:exported
+		ADDED from [:flutter_webview_plugin] /Users/kunalraut/Downloads/tres_comas/build/flutter_webview_plugin/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:12:13-37
+	tools:replace
+		ADDED from [:flutter_webview_plugin] /Users/kunalraut/Downloads/tres_comas/build/flutter_webview_plugin/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:14:13-48
+	android:name
+		ADDED from [:flutter_webview_plugin] /Users/kunalraut/Downloads/tres_comas/build/flutter_webview_plugin/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:10:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:flutter_webview_plugin] /Users/kunalraut/Downloads/tres_comas/build/flutter_webview_plugin/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:15:13-17:53
+	android:resource
+		ADDED from [:flutter_webview_plugin] /Users/kunalraut/Downloads/tres_comas/build/flutter_webview_plugin/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:17:17-50
+	android:name
+		ADDED from [:flutter_webview_plugin] /Users/kunalraut/Downloads/tres_comas/build/flutter_webview_plugin/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:16:17-67

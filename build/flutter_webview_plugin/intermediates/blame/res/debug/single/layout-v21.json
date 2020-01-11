@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/kunalraut/Downloads/tres_comas/build/flutter_webview_plugin/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/kunalraut/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/7e88416308153cfb2bb08f834d6f0e87/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/kunalraut/Downloads/tres_comas/build/flutter_webview_plugin/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/kunalraut/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/7e88416308153cfb2bb08f834d6f0e87/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/kunalraut/Downloads/tres_comas/build/flutter_webview_plugin/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/kunalraut/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/7e88416308153cfb2bb08f834d6f0e87/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/kunalraut/Downloads/tres_comas/build/flutter_webview_plugin/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/kunalraut/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/7e88416308153cfb2bb08f834d6f0e87/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

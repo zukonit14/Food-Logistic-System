@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "/Users/kunalraut/Downloads/tres_comas/build/flutter_webview_plugin/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/kunalraut/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/53bc150dd5def6a88f4a2eaba46ffecf/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/kunalraut/Downloads/tres_comas/build/flutter_webview_plugin/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/kunalraut/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/53bc150dd5def6a88f4a2eaba46ffecf/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/kunalraut/Downloads/tres_comas/build/flutter_webview_plugin/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/kunalraut/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/53bc150dd5def6a88f4a2eaba46ffecf/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/kunalraut/Downloads/tres_comas/build/flutter_webview_plugin/intermediates/res/merged/debug/color/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/kunalraut/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/53bc150dd5def6a88f4a2eaba46ffecf/res/color/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/kunalraut/Downloads/tres_comas/build/flutter_webview_plugin/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/kunalraut/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/53bc150dd5def6a88f4a2eaba46ffecf/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/kunalraut/Downloads/tres_comas/build/flutter_webview_plugin/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/Users/kunalraut/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/53bc150dd5def6a88f4a2eaba46ffecf/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/kunalraut/Downloads/tres_comas/build/flutter_webview_plugin/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/kunalraut/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/53bc150dd5def6a88f4a2eaba46ffecf/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/kunalraut/Downloads/tres_comas/build/flutter_webview_plugin/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/kunalraut/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/53bc150dd5def6a88f4a2eaba46ffecf/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/kunalraut/Downloads/tres_comas/build/flutter_webview_plugin/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/kunalraut/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/53bc150dd5def6a88f4a2eaba46ffecf/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/kunalraut/Downloads/tres_comas/build/flutter_webview_plugin/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/kunalraut/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/53bc150dd5def6a88f4a2eaba46ffecf/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/kunalraut/Downloads/tres_comas/build/flutter_webview_plugin/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/kunalraut/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/53bc150dd5def6a88f4a2eaba46ffecf/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/kunalraut/Downloads/tres_comas/build/flutter_webview_plugin/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/kunalraut/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/53bc150dd5def6a88f4a2eaba46ffecf/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/kunalraut/Downloads/tres_comas/build/flutter_webview_plugin/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/kunalraut/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/53bc150dd5def6a88f4a2eaba46ffecf/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/kunalraut/Downloads/tres_comas/build/flutter_webview_plugin/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/Users/kunalraut/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/53bc150dd5def6a88f4a2eaba46ffecf/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/kunalraut/Downloads/tres_comas/build/flutter_webview_plugin/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/kunalraut/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/53bc150dd5def6a88f4a2eaba46ffecf/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/kunalraut/Downloads/tres_comas/build/flutter_webview_plugin/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/kunalraut/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/53bc150dd5def6a88f4a2eaba46ffecf/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/kunalraut/Downloads/tres_comas/build/flutter_webview_plugin/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/Users/kunalraut/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/53bc150dd5def6a88f4a2eaba46ffecf/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/kunalraut/Downloads/tres_comas/build/flutter_webview_plugin/intermediates/res/merged/debug/color/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/kunalraut/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/53bc150dd5def6a88f4a2eaba46ffecf/res/color/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/kunalraut/Downloads/tres_comas/build/flutter_webview_plugin/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/kunalraut/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/53bc150dd5def6a88f4a2eaba46ffecf/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/kunalraut/Downloads/tres_comas/build/flutter_webview_plugin/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/Users/kunalraut/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/53bc150dd5def6a88f4a2eaba46ffecf/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/kunalraut/Downloads/tres_comas/build/flutter_webview_plugin/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/Users/kunalraut/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/53bc150dd5def6a88f4a2eaba46ffecf/res/color/abc_tint_spinner.xml"
+    }
+]
